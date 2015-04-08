@@ -9,7 +9,7 @@ $sonuc=$_POST["sonuc"];
 if($sonuc==$islem){
 	
 
-echo " isim $isim<br>  mail: $mail<br> girdiğiniz değer: $islem  <br> mesaj:$mesaj";	
+echo " isim $isim<br>  mail: $mail<br>  değer: $islem  <br> mesaj:$mesaj";	
 	
 	}
 	else echo "hatalı girdiniz...";
