@@ -5,7 +5,7 @@
 
 <form name="form1" method="post" action="2.php">
 
-	<table width="498" border="0">
+	<table width="600" border="0">
   <tr>
     <td width="153" height="277"><table width="131" height="199" border="0">
       <tr>
