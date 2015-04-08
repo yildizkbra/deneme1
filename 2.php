@@ -12,7 +12,7 @@ if($sonuc==$islem){
 echo " isim $isim<br>  mail: $mail<br> girdiğiniz değer: $islem  <br> mesaj:$mesaj";	
 	
 	}
-	else echo "hatalı girdiniz...";
+	else echo "hatalı giriş yaptınız...";
 
 
 
